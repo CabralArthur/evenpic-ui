@@ -91,7 +91,7 @@ appCSS.push('src/assets/libs/datepicker/bootstrap-datepicker.min.css');
 
 // CSS - Application
 appCSS.push('src/assets/css/alert.css');
-appCSS.push('src/assets/css/custom.css');
+appCSS.push('src/assets/css/root.css');
 appCSS.push('src/assets/css/design-system.css');
 
 const watcherLinter = gulp.watch(lintFiles);
